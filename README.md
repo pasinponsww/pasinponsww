@@ -1,8 +1,8 @@
-# 👋 Hi, I’m **Bex Saw**
+# 👋 Hello, I’m **Bex Sawetrattanathumrong ✱**
 
-💻 **Aspiring Engineer | Builder | Lifelong Learner**
+💻 **Computer Engineer | Cybersecurity Focus**
 
-Welcome to my corner of GitHub! I’m passionate about creating projects that blend **hardware** and **software**, exploring areas like **physical security tools**, **embedded systems**, and how they connect up to **cloud security**.  
+⨂ Welcome to my corner of GitHub! I’m passionate about creating projects that blend **hardware** and **software**, exploring areas like **physical security tools**, **embedded systems**, and how they connect up to **cloud security**. 
 I’m currently a **student** with a focus on **computer engineering and security**, and I love working on projects that push me to learn something new every day.
 
 ---
@@ -31,11 +31,7 @@ I’m currently a **student** with a focus on **computer engineering and securit
 - 🔐 **Secure RFID Access Logger**  
   *ESP32 + FPGA project for secure access and logging.*  
   *Coming soon...*
-
-- 🔒 **Cloud-Connected Security Module**  
-  *Integrating physical hardware with secure cloud logging.*  
-  *Coming soon...*
-
+  
 *(More projects coming soon…)*
 
 ---
@@ -43,7 +39,3 @@ I’m currently a **student** with a focus on **computer engineering and securit
 ## 🤝 Let’s Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/pasinpon-sawetrattanathumrong-030590326/)  
 📧 **Email:** bex.sawetrattanathumrong01@student.csulb.edu
-
----
-
-⭐️ _If you like what you see, consider giving a star to my projects!_
