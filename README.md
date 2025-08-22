@@ -17,24 +17,13 @@ I’m currently a **student** with a focus on **computer engineering and securit
 
 ## 🛠️ Tech I Work With
 **Languages:**  
-`Python` `C++`
+`Python` `C++` `Verilog` 
 
 **Hardware & Tools:**  
 `ESP32` `Arduino` `FPGAs (Basys3/Nexys)` `RFID`
 
 **Focus Areas:**  
-`Physical Security Systems` `Embedded Security` `Cloud Security`
-
----
-
-## 📌 Featured Projects
-- 🔐 **Secure RFID Access Logger**  
-  *ESP32 + FPGA project for secure access and logging.*  
-  *Coming soon...*
-  
-*(More projects coming soon…)*
-
----
+`Hardware` `Embedded Security` `Cloud Security`
 
 ## 🤝 Let’s Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/pasinpon-sawetrattanathumrong-030590326/)  
