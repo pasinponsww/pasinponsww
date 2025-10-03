@@ -11,18 +11,18 @@ I’m eager to grow further in **embedded system design** and **hardware securit
 ## 🛠️ Technical Skills  
 
 **Languages:**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Verilog](https://img.shields.io/badge/-Verilog-FF6600?style=flat&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white)
 
 **Hardware & Tools:**  
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)  
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)  
-![FPGA](https://img.shields.io/badge/-FPGA-FFB500?style=flat&logo=xilinx&logoColor=white)  
-![RFID](https://img.shields.io/badge/-RFID-008000?style=flat)  
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  
+![FPGA](https://img.shields.io/badge/FPGA-FFB500?style=for-the-badge&logo=xilinx&logoColor=black)  
+![RFID](https://img.shields.io/badge/RFID-008000?style=for-the-badge)  
 
 ### Tools & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,5 +40,5 @@ I’m eager to grow further in **embedded system design** and **hardware securit
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasinpon-sawetrattanathumrong-030590326/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasinpon-sawetrattanathumrong-030590326/)  
 📧 **Email:** bex.sawetrattanathumrong01@student.csulb.edu  
