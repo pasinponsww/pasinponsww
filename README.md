@@ -33,8 +33,8 @@ I’m eager to grow further in **embedded system design** and **hardware securit
 
 **Focus Areas:**  
 - Embedded Systems  
-- Hardware Security  
-- Driver Development  
+- Defense & Hardware Security  
+- Driver Development
 
 ---
 
